@@ -10,3 +10,7 @@ Made by Anantha Krishnan O M.
 
 Hi Hope you are doing well.
 
+## Local Develop
+
+ 1. Open index.html
+
